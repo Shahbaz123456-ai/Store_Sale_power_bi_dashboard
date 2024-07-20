@@ -1,4 +1,5 @@
 # Store_Sale_power_bi_dashboard
+![Store_sales](https://github.com/user-attachments/assets/3e75b7c6-265e-41da-ad80-4c01f6893b96)
 The owner of store want us to help them create a dashboard to track and analyze their online sales across India.
 Dataset Description:
 The Dataset contains information on various category and sub-category and their details.
